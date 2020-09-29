@@ -1,6 +1,6 @@
 # Flutter Portfolio
 
-Olá, me chamo Isla Oliveira e este é o meu portfólio de aplicativos mobile hibrídos utilizando o Flutter.
+Olá, me chamo Isla Oliveira e este é o meu portfólio de aplicativos mobile híbridos utilizando o Flutter.
 
 
 ### App #1 - Conversor de Moedas
