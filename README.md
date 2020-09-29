@@ -5,6 +5,12 @@ Olá, me chamo Isla Oliveira e este é o meu portfólio de aplicativos mobile h�
 
 ### App #1 - Conversor de Moedas
 
+updating...
+
 ### App #2 - Lista de Tarefas
 
+updating...
+
 ### App #3 - Buscador de GIF
+
+updating...
